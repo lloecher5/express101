@@ -1,0 +1,14 @@
+{
+  "name": "express101",
+  "version": "1.0.0",
+  "description": "intro to express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Loecher",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
